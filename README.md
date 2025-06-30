@@ -7,7 +7,7 @@
   <li>📊 I build powerful web apps and smart AI systems</li>
   <li>📈 I'm focused on continuous learning and innovation</li>
   <li>🔬 Exploring healthcare through AI in my project: <strong>AI_Medical_Lab</strong></li>
-  <li>✉️ Reach me at: <strong>your.email@example.com</strong></li>
+  <li>✉️ Reach me at: <strong>your.hhenisathaliya@gmail.com</strong></li>
 </ul>
 
 <h3>🚀 Projects</h3>
