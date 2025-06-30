@@ -1,6 +1,6 @@
 <h2 align="left">Hi 👋! My name is Hetal Sathaliya and I'm a Full-Stack Developer.</h2>
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" />
+<img align="right" height="150" src="https://variety.com/wp-content/uploads/2022/06/preview.jpg" />
 
 <ul>
   <li>💻 I specialize in JavaScript, React, Node.js, and Machine Learning</li>
@@ -24,7 +24,7 @@
     <tr>
       <td>🔬 <a href="https://github.com/Hhetal/AI_Medical_Lab">AI_Medical_Lab</a></td>
       <td>AI-powered health diagnostic system</td>
-      <td>Python, Machine Learning</td>
+      <td>React,Python, Machine Learning</td>
     </tr>
     <tr>
       <td>📚 <a href="https://github.com/Hhetal/lms-admin">LMS Admin Panel</a></td>
